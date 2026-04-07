@@ -1,0 +1,26 @@
+# Visual Studio temporary files
+.vs/
+out/
+build/
+bin/
+obj/
+*.user
+*.sln
+*.vcxproj
+*.filters
+
+# Axmol specific temp folders
+proj.win32/
+proj.android/
+proj.ios_mac/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+build_win/
+build_x64/
+proj.linux/
+proj.wasm/
+proj.winrt/
+cmake/
